@@ -89,43 +89,43 @@
         "blue": {
           "10": {
             "$type": "color",
-            "$value": "#F2F7FB"
+            "$value": "#E7ECF3"
           },
           "20": {
             "$type": "color",
-            "$value": "#E9F2F9"
+            "$value": "#B8C6DB"
           },
           "30": {
             "$type": "color",
-            "$value": "#BED7EC"
+            "$value": "#A0B3CF"
           },
           "40": {
             "$type": "color",
-            "$value": "#7CAFD7"
+            "$value": "#5879AC"
           },
           "50": {
             "$type": "color",
-            "$value": "#057ABA"
+            "$value": "#456AA2"
           },
           "60": {
             "$type": "color",
-            "$value": "#0469A1"
+            "$value": "#375F9B"
           },
           "70": {
             "$type": "color",
-            "$value": "#035989"
+            "$value": "#114088"
           },
           "80": {
             "$type": "color",
-            "$value": "#013A5C"
+            "$value": "#0C2D5F"
           },
           "90": {
             "$type": "color",
-            "$value": "#012B46"
+            "$value": "#092044"
           },
           "100": {
             "$type": "color",
-            "$value": "#001D32"
+            "$value": "#030D1B"
           }
         },
         "green": {
@@ -248,7 +248,7 @@
         },
         "primary": {
           "$type": "fontFamilies",
-          "$value": "Poppins, sans-serif"
+          "$value": "Source Sans Pro"
         }
       },
       "line-height": {
@@ -1193,7 +1193,7 @@
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.yellow.60}"
+            "$value": "{zoeterwoude.colors.yellow.30}"
           },
           "bg-active": {
             "$type": "color",
@@ -3854,7 +3854,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-1-inverse.color-default}"
+            "$value": "{basis.color.default.color-document}"
           },
           "font-size": {
             "$type": "fontSizes",
@@ -3879,7 +3879,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.color-active}"
+              "$value": "{basis.color.default-inverse.color-default}"
             }
           },
           "disabled": {
@@ -3921,7 +3921,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.color-hover}"
+              "$value": "{basis.color.default.color-document}"
             }
           },
           "pressed": {
@@ -3935,7 +3935,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.color-active}"
+              "$value": "{basis.color.default.color-document}"
             }
           }
         },
