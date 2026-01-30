@@ -47,7 +47,7 @@
         "yellow": {
           "10": {
             "$type": "color",
-            "$value": "#FDEBB6"
+            "$value": "#FDF2CF"
           },
           "20": {
             "$type": "color",
