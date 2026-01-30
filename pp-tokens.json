@@ -44,46 +44,46 @@
             "$value": "#0D1921"
           }
         },
-        "red": {
+        "yellow": {
           "10": {
             "$type": "color",
-            "$value": "#FFF0ED"
+            "$value": "#FDEBB6"
           },
           "20": {
             "$type": "color",
-            "$value": "#FEE0DA"
+            "$value": "#FBDF86"
           },
           "30": {
             "$type": "color",
-            "$value": "#FBC1B6"
+            "$value": "#F9D256"
           },
           "40": {
             "$type": "color",
-            "$value": "#ED826F"
+            "$value": "#F8C425"
           },
           "50": {
             "$type": "color",
-            "$value": "#D62410"
+            "$value": "#F7BE0D"
           },
           "60": {
             "$type": "color",
-            "$value": "#A91C09"
+            "$value": "#DEAB0C"
           },
           "70": {
             "$type": "color",
-            "$value": "#96190B"
+            "$value": "#C6980A"
           },
           "80": {
             "$type": "color",
-            "$value": "#6B1208"
+            "$value": "#947208"
           },
           "90": {
             "$type": "color",
-            "$value": "#400B05"
+            "$value": "#634C05"
           },
           "100": {
             "$type": "color",
-            "$value": "#250200"
+            "$value": "#312603"
           }
         },
         "blue": {
@@ -427,59 +427,59 @@
         "accent-1": {
           "bg-document": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.10}"
+            "$value": "{zoeterwoude.colors.yellow.10}"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.10}"
+            "$value": "{zoeterwoude.colors.yellow.10}"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.10}"
+            "$value": "{zoeterwoude.colors.yellow.10}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.20}"
+            "$value": "{zoeterwoude.colors.yellow.20}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.30}"
+            "$value": "{zoeterwoude.colors.yellow.30}"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.40}"
+            "$value": "{zoeterwoude.colors.yellow.40}"
           },
           "border-default": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.50}"
+            "$value": "{zoeterwoude.colors.yellow.50}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.60}"
+            "$value": "{zoeterwoude.colors.yellow.60}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.70}"
+            "$value": "{zoeterwoude.colors.yellow.70}"
           },
           "color-default": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.50}"
+            "$value": "{zoeterwoude.colors.yellow.50}"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.60}"
+            "$value": "{zoeterwoude.colors.yellow.60}"
           },
           "color-active": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.70}"
+            "$value": "{zoeterwoude.colors.yellow.70}"
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.50}"
+            "$value": "{zoeterwoude.colors.yellow.50}"
           },
           "color-document": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.100}"
+            "$value": "{zoeterwoude.colors.yellow.100}"
           }
         },
         "accent-2": {
@@ -1181,39 +1181,39 @@
         "accent-1-inverse": {
           "bg-document": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.80}"
+            "$value": "{zoeterwoude.colors.yellow.80}"
           },
           "bg-subtle": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.90}"
+            "$value": "{zoeterwoude.colors.yellow.90}"
           },
           "bg-default": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.50}"
+            "$value": "{zoeterwoude.colors.yellow.50}"
           },
           "bg-hover": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.60}"
+            "$value": "{zoeterwoude.colors.yellow.60}"
           },
           "bg-active": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.80}"
+            "$value": "{zoeterwoude.colors.yellow.80}"
           },
           "border-subtle": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.80}"
+            "$value": "{zoeterwoude.colors.yellow.80}"
           },
           "border-default": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.40}"
+            "$value": "{zoeterwoude.colors.yellow.40}"
           },
           "border-hover": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.30}"
+            "$value": "{zoeterwoude.colors.yellow.30}"
           },
           "border-active": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.20}"
+            "$value": "{zoeterwoude.colors.yellow.20}"
           },
           "color-default": {
             "$type": "color",
@@ -1229,7 +1229,7 @@
           },
           "color-subtle": {
             "$type": "color",
-            "$value": "{zoeterwoude.colors.red.30}"
+            "$value": "{zoeterwoude.colors.yellow.30}"
           },
           "color-document": {
             "$type": "color",
